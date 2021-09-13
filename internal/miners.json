@@ -46,7 +46,8 @@
                 "ethash",
                 "etchash",
                 "kawpow",
-                "autolykos2"
+                "autolykos2",
+                "octopus"
             ],
             "supported_gpus": [
                 "nvidia"
@@ -75,7 +76,8 @@
                 "etchash",
                 "kawpow",
                 "beamv3",
-                "autolykos2"
+                "autolykos2",
+                "octopus"
             ],
             "supported_gpus": [
                 "nvidia",
